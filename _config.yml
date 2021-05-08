@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: /pengyuan's photo.jpg
 title: Pengyuan Li
 description: Pengyuan Li currently is a Ph.D. candidate in the Department of Computer and Information Sciences at University of Delaware. He is a member of Computational Biomedicine and Machine Learning Lab, under the advisement of Prof. Hagit Shatkay.
+show_downloads: false
